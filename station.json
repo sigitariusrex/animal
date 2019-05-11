@@ -2,8 +2,8 @@
   "anistation": [{
     "id": 1,
     "num": "001",
-    "name": "Bulbasaur",
-    "img": "http://www.serebii.net/pokemongo/pokemon/001.png",
+    "name": "Anjing",
+    "img": "https://www.dropbox.com/s/xlqh62dtf0vlz2e/Anjing.png",
     "type": [
       "Grass",
       "Poison"
