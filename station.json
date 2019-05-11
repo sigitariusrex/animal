@@ -54,20 +54,7 @@
     "spawn_chance": 0.017,
     "avg_spawns": 1.7,
     "spawn_time": "11:30",
-    "multipliers": null,
-    "weaknesses": [
-      "Fire",
-      "Ice",
-      "Flying",
-      "Psychic"
-    ],
-    "prev_evolution": [{
-      "num": "001",
-      "name": "Bulbasaur"
-    }, {
-      "num": "002",
-      "name": "Ivysaur"
-    }]
+    "multipliers": null
   }, {
     "id": 4,
     "num": "004",
@@ -84,19 +71,7 @@
     "spawn_chance": 0.253,
     "avg_spawns": 25.3,
     "spawn_time": "08:45",
-    "multipliers": [1.65],
-    "weaknesses": [
-      "Water",
-      "Ground",
-      "Rock"
-    ],
-    "next_evolution": [{
-      "num": "005",
-      "name": "Charmeleon"
-    }, {
-      "num": "006",
-      "name": "Charizard"
-    }]
+    "multipliers": [1.65]
   }, {
     "id": 5,
     "num": "005",
@@ -113,20 +88,7 @@
     "spawn_chance": 0.012,
     "avg_spawns": 1.2,
     "spawn_time": "19:00",
-    "multipliers": [1.79],
-    "weaknesses": [
-      "Water",
-      "Ground",
-      "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "004",
-      "name": "Charmander"
-    }],
-    "next_evolution": [{
-      "num": "006",
-      "name": "Charizard"
-    }]
+    "multipliers": [1.79]
   }, {
     "id": 6,
     "num": "006",
@@ -143,19 +105,7 @@
     "spawn_chance": 0.0031,
     "avg_spawns": 0.31,
     "spawn_time": "13:34",
-    "multipliers": null,
-    "weaknesses": [
-      "Water",
-      "Electric",
-      "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "004",
-      "name": "Charmander"
-    }, {
-      "num": "005",
-      "name": "Charmeleon"
-    }]
+    "multipliers": null
   }, {
     "id": 7,
     "num": "007",
@@ -172,18 +122,7 @@
     "spawn_chance": 0.58,
     "avg_spawns": 58,
     "spawn_time": "04:25",
-    "multipliers": [2.1],
-    "weaknesses": [
-      "Electric",
-      "Grass"
-    ],
-    "next_evolution": [{
-      "num": "008",
-      "name": "Wartortle"
-    }, {
-      "num": "009",
-      "name": "Blastoise"
-    }]
+    "multipliers": [2.1]
   }, {
     "id": 8,
     "num": "008",
@@ -200,19 +139,7 @@
     "spawn_chance": 0.034,
     "avg_spawns": 3.4,
     "spawn_time": "07:02",
-    "multipliers": [1.4],
-    "weaknesses": [
-      "Electric",
-      "Grass"
-    ],
-    "prev_evolution": [{
-      "num": "007",
-      "name": "Squirtle"
-    }],
-    "next_evolution": [{
-      "num": "009",
-      "name": "Blastoise"
-    }]
+    "multipliers": [1.4]
   }, {
     "id": 9,
     "num": "009",
@@ -228,18 +155,7 @@
     "spawn_chance": 0.0067,
     "avg_spawns": 0.67,
     "spawn_time": "00:06",
-    "multipliers": null,
-    "weaknesses": [
-      "Electric",
-      "Grass"
-    ],
-    "prev_evolution": [{
-      "num": "007",
-      "name": "Squirtle"
-    }, {
-      "num": "008",
-      "name": "Wartortle"
-    }]
+    "multipliers": null
   }, {
     "id": 10,
     "num": "010",
@@ -256,18 +172,6 @@
     "spawn_chance": 3.032,
     "avg_spawns": 303.2,
     "spawn_time": "16:35",
-    "multipliers": [1.05],
-    "weaknesses": [
-      "Fire",
-      "Flying",
-      "Rock"
-    ],
-    "next_evolution": [{
-      "num": "011",
-      "name": "Metapod"
-    }, {
-      "num": "012",
-      "name": "Butterfree"
-    }]
+    "multipliers": [1.05]
   }]
 }
