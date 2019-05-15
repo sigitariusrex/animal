@@ -6,7 +6,7 @@
     "img": "http://2.bp.blogspot.com/-cgS-rlS3ayo/VkOdJQoPMnI/AAAAAAAAQMk/VrbKkgN8AEs/s1600/Mewarnai%2BGambar%2BSinga%2B%25283%2529.png",
     "type": [
       "Carnivora",
-      "Fang"
+      "Running"
     ],
     "height": "90 cm",
     "weight": "180 kg",
@@ -18,7 +18,7 @@
     "img": "https://i.pinimg.com/originals/24/01/e3/2401e38f74baedab604de7e196515ff1.png",
     "type": [
       "Carnivora",
-      "Fang"
+      "Running"
     ],
     "height": "85 cm",
     "weight": "180 kg",
@@ -30,7 +30,7 @@
     "img": "https://cdn.pixabay.com/photo/2013/07/13/12/50/animal-160462_960_720.png",
     "type": [
       "Carnivora",
-      "Fang"
+      "Running"
     ],
     "height": "2 m",
     "weight": "400 kg",
@@ -41,7 +41,8 @@
     "name": "Zebra",
     "img": "http://icons.iconarchive.com/icons/shrikant-rawa/animals/256/zebra-icon.png",
     "type": [
-      "Herbivora"
+      "Herbivora",
+      "Running"
     ],
     "height": "1.3 m",
     "weight": "350 kg",
@@ -49,103 +50,50 @@
   }, {
     "id": 5,
     "num": "005",
-    "name": "Charmeleon",
-    "img": "http://www.serebii.net/pokemongo/pokemon/005.png",
+    "name": "Jerapah",
+    "img": "https://cdn.pixabay.com/photo/2016/03/31/21/22/africa-1296386_960_720.png",
     "type": [
-      "Fire"
+      "Herbivora",
+      "Running"
     ],
-    "height": "1.09 m",
-    "weight": "19.0 kg",
-    "candy": "Charmander Candy",
-    "candy_count": 100,
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.012,
-    "avg_spawns": 1.2,
-    "spawn_time": "19:00",
-    "multipliers": [1.79]
+    "height": "5.5 m",
+    "weight": "1360 kg",
+    "order": "Grass"
   }, {
     "id": 6,
     "num": "006",
-    "name": "Charizard",
-    "img": "http://www.serebii.net/pokemongo/pokemon/006.png",
+    "name": "Elang",
+    "img": "https://www.bforball.com/image/categ/eagle.png",
     "type": [
-      "Fire",
+      "Carnivora",
       "Flying"
     ],
-    "height": "1.70 m",
-    "weight": "90.5 kg",
-    "candy": "Charmander Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.0031,
-    "avg_spawns": 0.31,
-    "spawn_time": "13:34",
-    "multipliers": null
+    "height": "40 cm",
+    "weight": "3 kg",
+    "order": "Fish"
   }, {
     "id": 7,
     "num": "007",
-    "name": "Squirtle",
-    "img": "http://www.serebii.net/pokemongo/pokemon/007.png",
+    "name": "Shark",
+    "img": "https://media-assets-05.thedrum.com/cache/images/thedrum-prod/s3-unnamed_0--default--458.png",
     "type": [
-      "Water"
+      "Carnivora",
+      "Swimming"
     ],
-    "height": "0.51 m",
-    "weight": "9.0 kg",
-    "candy": "Squirtle Candy",
-    "candy_count": 25,
-    "egg": "2 km",
-    "spawn_chance": 0.58,
-    "avg_spawns": 58,
-    "spawn_time": "04:25",
-    "multipliers": [2.1]
+    "height": "8 m",
+    "weight": "2267 kg",
+    "order": "Fish"
   }, {
     "id": 8,
     "num": "008",
-    "name": "Wartortle",
-    "img": "http://www.serebii.net/pokemongo/pokemon/008.png",
+    "name": "Whale",
+    "img": "https://cdn.pixabay.com/photo/2019/04/11/21/11/whale-4120650__340.png",
     "type": [
-      "Water"
+      "Carnivora",
+      "Swimming"
     ],
-    "height": "0.99 m",
-    "weight": "22.5 kg",
-    "candy": "Squirtle Candy",
-    "candy_count": 100,
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.034,
-    "avg_spawns": 3.4,
-    "spawn_time": "07:02",
-    "multipliers": [1.4]
-  }, {
-    "id": 9,
-    "num": "009",
-    "name": "Blastoise",
-    "img": "http://www.serebii.net/pokemongo/pokemon/009.png",
-    "type": [
-      "Water"
-    ],
-    "height": "1.60 m",
-    "weight": "85.5 kg",
-    "candy": "Squirtle Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.0067,
-    "avg_spawns": 0.67,
-    "spawn_time": "00:06",
-    "multipliers": null
-  }, {
-    "id": 10,
-    "num": "010",
-    "name": "Caterpie",
-    "img": "http://www.serebii.net/pokemongo/pokemon/010.png",
-    "type": [
-      "Bug"
-    ],
-    "height": "0.30 m",
-    "weight": "2.9 kg",
-    "candy": "Caterpie Candy",
-    "candy_count": 12,
-    "egg": "2 km",
-    "spawn_chance": 3.032,
-    "avg_spawns": 303.2,
-    "spawn_time": "16:35",
-    "multipliers": [1.05]
+    "height": "33 m",
+    "weight": "181 ton",
+    "order": "Fish"
   }]
 }
