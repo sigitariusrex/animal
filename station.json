@@ -63,7 +63,7 @@
     "id": 6,
     "num": "006",
     "name": "Eagle",
-    "img": "",
+    "img": "https://www.bforball.com/image/categ/eagle.png",
     "type": [
       "Carnivora",
       "Flying"
