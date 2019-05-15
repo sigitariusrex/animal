@@ -26,37 +26,26 @@
   }, {
     "id": 3,
     "num": "003",
-    "name": "Venusaur",
-    "img": "http://www.serebii.net/pokemongo/pokemon/003.png",
+    "name": "Bear",
+    "img": "https://cdn.pixabay.com/photo/2013/07/13/12/50/animal-160462_960_720.png",
     "type": [
-      "Grass",
-      "Poison"
+      "Carnivora",
+      "Fang"
     ],
-    "height": "2.01 m",
-    "weight": "100.0 kg",
-    "candy": "Bulbasaur Candy",
-    "egg": "Not in Eggs",
-    "spawn_chance": 0.017,
-    "avg_spawns": 1.7,
-    "spawn_time": "11:30",
-    "multipliers": null
+    "height": "2 m",
+    "weight": "400 kg",
+    "order": "Fish"
   }, {
     "id": 4,
     "num": "004",
-    "name": "Charmander",
-    "img": "http://www.serebii.net/pokemongo/pokemon/004.png",
+    "name": "Zebra",
+    "img": "http://icons.iconarchive.com/icons/shrikant-rawa/animals/256/zebra-icon.png",
     "type": [
-      "Fire"
+      "Herbivora"
     ],
-    "height": "0.61 m",
-    "weight": "8.5 kg",
-    "candy": "Charmander Candy",
-    "candy_count": 25,
-    "egg": "2 km",
-    "spawn_chance": 0.253,
-    "avg_spawns": 25.3,
-    "spawn_time": "08:45",
-    "multipliers": [1.65]
+    "height": "1.3 m",
+    "weight": "350 kg",
+    "order": "Grass"
   }, {
     "id": 5,
     "num": "005",
